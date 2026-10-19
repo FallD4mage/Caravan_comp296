@@ -8,9 +8,7 @@ import javafx.stage.Stage;
 
 import java.io.IOException;
 
-/**
- * JavaFX App
- */
+//Preset class, came with project creation.
 public class App extends Application {
 
     private static Scene scene;
